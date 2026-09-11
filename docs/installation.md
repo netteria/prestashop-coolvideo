@@ -11,7 +11,7 @@ Moduł CoolVideo umożliwia dodanie wideo bezpośrednio do galerii zdjęć produ
 
 ### 1. Pobranie modułu
 Pobierz paczkę ZIP z:
-- sklepu PrestaExpert
+- sklepu PrestaExpert.pl
 - panelu klienta
 - lub z sekcji Releases (jeśli dostępne)
 
