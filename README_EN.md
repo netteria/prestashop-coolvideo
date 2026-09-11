@@ -55,6 +55,10 @@ The module is lightweight, fast and requires no theme modifications.
 
 ---
 
+🔗 Purchase the module: https://prestaexpert.pl/strona-glowna/24-modul-wideo-do-galerii-produktu-prestashop-cool-video.html
+
+---
+
 ## 📚 Documentation
 
 Full documentation is available in the `/docs` directory.
