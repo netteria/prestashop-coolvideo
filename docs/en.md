@@ -1,4 +1,3 @@
-
 # Cool Video: Product Gallery Videos and Autoplay
 
 Cool Video adds YouTube, Vimeo and Dailymotion videos to product galleries.
