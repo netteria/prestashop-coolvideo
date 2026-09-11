@@ -55,6 +55,10 @@ Moduł jest lekki, szybki i nie wymaga żadnych zmian w szablonie.
 
 ---
 
+🔗 Zakup moduł: https://prestaexpert.pl/strona-glowna/24-modul-wideo-do-galerii-produktu-prestashop-cool-video.html
+
+---
+
 ## 📚 Dokumentacja
 
 Pełna dokumentacja znajduje się w katalogu `/docs`.
